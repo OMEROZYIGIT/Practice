@@ -3,7 +3,7 @@ package day05_Practice;
 public class P03_PalindromicSayi {
     public static void main(String[] args) {
         /*
-        palindromik sayı her iki tarafından da okundupunda aynı değeri ifade eden sayıdır.
+        palindromik sayı her iki tarafından da okunduğunda aynı değeri ifade eden sayıdır.
         ÖRN: 9009 - 12321 - 121
          */
         //3 Basamaklı sayıların çarpımıyla oluşan en büyük palindromik sayıyı bulan kodu yazınız.
