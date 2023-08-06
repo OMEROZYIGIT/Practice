@@ -15,7 +15,10 @@ public class P02_IstenenKadarYazdirma {
         System.out.print("Bir rakam giriniz: ");
         int rakam = scan.nextInt();
 
+        // kelimemizin son iki harfini almak için substring methodunu kullanalım
         String son2Harf = kelime.substring(kelime.length() - 2);
+
+
         if (rakam <= 9) {
             for (int i = 1; i <= rakam; i++) {
                 System.out.print(son2Harf);

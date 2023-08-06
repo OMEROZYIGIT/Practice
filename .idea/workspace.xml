@@ -4,45 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a59cdea-2df9-4b28-b105-e66e5cc6e0cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru08.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru09.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru19.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru20.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru21_Interview.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru22.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru23.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru26.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru28.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru29.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru30_Interview.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru31.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru32.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru33.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru34.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples/soru35.java" beforeDir="false" />
-    </list>
+    <list default="true" id="8a59cdea-2df9-4b28-b105-e66e5cc6e0cc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
