@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a59cdea-2df9-4b28-b105-e66e5cc6e0cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day05_Practice/P06_CokDahaBasit_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06_Practice/P01_ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +84,11 @@
           <url>file://$PROJECT_DIR$/src/WiseMarket.java</url>
           <line>50</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day06_Practice/P04_MethodCreation.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
