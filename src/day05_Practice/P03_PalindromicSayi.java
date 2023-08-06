@@ -26,8 +26,12 @@ public class P03_PalindromicSayi {
                 }
             }
         }
-        System.out.println(flag); //işlem sayısı
-        System.out.println("Max. Pal. Sayı= "+maxbas1+" * "+maxbas2+ " ="+maxbas3); //işlem sonucu
+
+        System.out.println(flag + " işlemde sonucu buldu");                          //  866 işlemde sonucu buldu
+        System.out.println("Max. Pal. Sayı= "+maxbas1+" * "+maxbas2+ " ="+maxbas3);  //  Max. Pal. Sayı= 913 * 993 =906609
+
+
+
     }
     public static boolean checkpalindromic(int i) {
 
