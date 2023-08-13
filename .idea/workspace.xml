@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a59cdea-2df9-4b28-b105-e66e5cc6e0cc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.Team120.JavaPractice/WiseMarket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.Team120.JavaPractice/day06_Practice/P06_SayiTahminOyunu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.Team120.JavaPractice/day06_Practice/P06_SayiTahminOyunu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day07_Practice/P07_ForEachLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day07_Practice/P07_ForEachLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +26,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2SF5JJSgzERu8JrGFq4N7P8mh5X" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
